@@ -1,4 +1,4 @@
-Objectives
+#Objectives
 Learn about application Deployments.
 Deploy your first app on Kubernetes with kubectl.
 Kubernetes Deployments
